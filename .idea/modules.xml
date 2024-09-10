@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/bold_font_fix.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/bold_font_fix.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/bold_font_fix.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/bold_font_fix.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/bold_font_fix.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/bold_font_fix.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/bold_font_fix.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/bold_font_fix.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/bold_font_fix.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/bold_font_fix.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/bold_font_fix.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/bold_font_fix.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/bold_font_fix.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/bold_font_fix.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/io.datura.bold_font_fix.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/io.datura.bold_font_fix.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/io.datura.bold_font_fix.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/io.datura.bold_font_fix.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/io.datura.bold_font_fix.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/io.datura.bold_font_fix.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/io.datura.bold_font_fix.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/io.datura.bold_font_fix.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/io.datura.bold_font_fix.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/io.datura.bold_font_fix.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/io.datura.bold_font_fix.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/io.datura.bold_font_fix.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/io.datura.bold_font_fix.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/io.datura.bold_font_fix.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
